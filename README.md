@@ -1,9 +1,15 @@
 # Country Website
 
-Country website for Greece
+Country website for Greece. A multi-pages website for Greece. It was the first multi-page project that I built in the BCIT FWD program.
 
-## FWDP-1000 Web-Development-1 Project
+View the Site: [Live Site](https://ztan.ca/country-website-greece/)
 
-Duration: 1 weeks
+## Tech Stack
+HTML5, CSS3, JavaScript, Adobe Illustrator
 
-Tools: HTML, CSS, JavaScript, Adobe Illustrator
+## Features
+* Multi-pages
+* Fully responsive
+
+## Author
+Jimmy Tan
